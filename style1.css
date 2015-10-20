@@ -1,0 +1,3399 @@
+.logo_mod a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/logo3.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 53px;
+    overflow: hidden;
+    width: 113px;
+    position: absolute;
+    left: 50px;
+}
+.topBar_mod {
+    height:18px;
+    text-align:right;
+    right:0;
+    top:66px;
+    overflow:hidden;
+    position:absolute;
+    z-index:9
+
+}
+
+
+
+
+
+
+body, div, p, form, iframe, object, ul, ol, li, dl, dt, dd, span, em, strong, img, table, td, th, textarea, button, input, select, h1, h2, h3, h4, h5, h6 {
+    border: 0 none;
+    color: #333333;
+    font: 300 12px/14px "Tahoma";
+    margin: 0 auto;
+    padding: 0;
+}
+
+#aaaright{
+
+    width:800px;
+    text-align:left margin-left : 0 px;
+    position:absolute;
+    left: 50px;
+    clear:left;
+    border-right:solid 1px #bdbdbd ;
+}
+#aaaleft{
+    width:350px;
+    float:right;
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+li {
+    list-style: outside none none;
+}
+em {
+    font-style: normal;
+}
+strong {
+    font-weight: bold;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+a, a:hover {
+    color: #3e72a1;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+body {
+    background: #ffffff none repeat scroll 0 0;
+}
+.left, .center, .l, .c {
+    float: left;
+}
+.right, .r {
+    float: right;
+}
+.clear, .area, .pg, .pt, .tab {
+}
+.clear::after, .area::after, .pg::after, .pt::after, .tab::after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.hidden {
+    display: none;
+}
+body {
+    font-size: 100%;
+}
+.tj, .tj > p {
+    text-align: justify !important;
+}
+.footer_mod p a {
+    color: #bdbdbd;
+    padding: 0 6px;
+
+}
+.mr38 {
+    margin-right: 38px !important;
+}
+.mb10 {
+    margin-bottom: 10px !important;
+}
+.searchWord {
+    color: #cc0033 !important;
+}
+.logo_mod {
+    display: inline;
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 30px;
+    width: 113px;
+    z-index: 999;
+}
+.logo_mod a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/logo3.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 53px;
+    overflow: hidden;
+    width: 113px;
+}
+.logo_mod a:focus {
+    outline: medium none;
+}
+.authorBox_mod {
+    padding: 112px 0 0;
+    position: relative;
+    width: 80%;
+}
+.authorBox_mod h2 {
+    color: #666666;
+    font: 22px/24px "Microsoft YaHei";
+    padding-left: 5px;
+}
+.authorBox_mod .leftJt, .authorBox_mod .rightJt, .authorBox_mod .topJt, .authorBox_mod .bottomJt {
+    display: none;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.authorBox_mod .rightJt {
+    left: auto;
+    right: 0;
+}
+.authorBox_mod .leftJt a, .authorBox_mod .rightJt a, .authorBox_mod .topJt a, .authorBox_mod .bottomJt a {
+    color: #888888;
+    display: block;
+    font: 50px/54px "Tahoma";
+    height: 100%;
+    text-decoration: none;
+    width: 100%;
+}
+.authorBox_mod .leftJt a:focus, .authorBox_mod .rightJt a:focus, .authorBox_mod .topJt a:focus, .authorBox_mod .bottomJt a:focus {
+    outline: medium none;
+}
+.authorBox_mod .topJt, .authorBox_mod .bottomJt {
+    height: 34px;
+    left: auto;
+    right: 0;
+    width: 34px;
+}
+.authorBox_mod .topJt a, .authorBox_mod .bottomJt a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg13.png") no-repeat scroll 0 0;
+    font: 12px/500px "Tahoma";
+    overflow: hidden;
+}
+.authorBox_mod .bottomJt a {
+    background-position: 0 -44px;
+}
+.authorBox_mod .topJt a:hover {
+    background-position: -34px 0;
+}
+.authorBox_mod .bottomJt a:hover {
+    background-position: -34px -44px;
+}
+.authorBox_mod .list {
+    margin: 30px auto 0;
+    width: 100%;
+}
+.authorBox_mod .list li {
+    float: left;
+    margin-bottom: 35px;
+    width: 100%;
+}
+.authorBox_mod .boxA .list li {
+    margin-bottom: 20px;
+}
+.authorBox_mod .pt img {
+    float: left;
+    margin: 0 24px 0 auto;
+}
+.authorBox_mod .pt h2, .authorBox_mod .pt h2 a {
+    color: #181818;
+    font: 20px/34px "Microsoft YaHei";
+}
+.authorBox_mod .pt p {
+    color: #999999;
+    font: 12px/24px "Tahoma";
+    height: 24px;
+    overflow: hidden;
+    text-align: justify;
+}
+.authorBox_mod .pt h3 {
+    color: #666666;
+    font: 14px/24px "Tahoma";
+    height: 24px;
+    overflow: hidden;
+    text-align: justify;
+}
+.authorBox_mod .pt .dy {
+    color: #999999;
+    font: 12px/20px "Tahoma";
+    margin-top: 25px;
+    text-align: right;
+}
+.authorBox_mod .pt .dy span {
+    color: #999999;
+    font: 12px/20px "Tahoma";
+}
+.authorBox_mod .pt .dy .btn {
+    color: #333333;
+    display: inline-block;
+    height: 20px;
+    margin-left: 25px;
+    text-align: center;
+    width: 40px;
+}
+.authorBox_mod .pt .dy .btn a {
+    background: #ebebeb none repeat scroll 0 0;
+    border-bottom: 1px solid #b3b3b4;
+    border-right: 1px solid #b3b3b4;
+    color: #333333;
+    display: block;
+    font: 12px/16px "Tahoma";
+    height: 18px;
+    padding-top: 2px;
+    text-decoration: none;
+    width: 39px;
+}
+.authorBox_mod .pt .dy .btn a:hover {
+    background: #f4f4f4 none repeat scroll 0 0;
+    border-bottom: 1px solid #d4d4d4;
+    border-right: 1px solid #d4d4d4;
+}
+.authorBox_mod .more {
+    height: 30px;
+    padding-top: 30px;
+    text-indent: 10px;
+}
+.authorBox_mod .more a {
+    color: #666666;
+    font: 16px/30px "Tahoma";
+    margin-right: 10px;
+    text-align: center;
+}
+.authorBox_mod .more .jtRight {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #666666;
+    border-image: none;
+    border-style: dashed dashed dashed solid;
+    border-width: 5px;
+    display: inline-block;
+    font: 0px/0 "Tahoma";
+}
+.author_mod {
+    margin: 126px auto 0;
+    text-align: center;
+    width: 80%;
+}
+.author_mod .face {
+    display: inline-block;
+    margin: 0 auto 15px;
+    text-align: center;
+}
+.author_mod .face a:focus {
+    outline: medium none;
+}
+.author_mod .face span {
+    border: 4px solid #ffffff;
+    border-radius: 100%;
+    box-shadow: 0 0 1px 0 #999999;
+    display: block;
+}
+.author_mod .face span img {
+    border-radius: 100%;
+}
+.author_mod .name {
+    color: #333333;
+    font: 28px/30px "Microsoft YaHei";
+    margin: 0 auto 20px;
+}
+.author_mod .name a {
+    color: #333333;
+    font: 28px/30px "Microsoft YaHei";
+}
+.author_mod .text {
+    color: #666666;
+    font: 14px/26px "Tahoma";
+    text-align: left;
+}
+.ewm_mod {
+    border-top: 1px solid #e5e5e5;
+    margin: 44px auto 0;
+    padding-top: 35px;
+    width: 80%;
+}
+.ewm_mod .pt {
+    margin: 0 auto;
+}
+.ewm_mod .pt .pic {
+    float: left;
+    width: 86px;
+}
+.ewm_mod .text h2 {
+    color: #333333;
+    font: 14px/20px "Tahoma";
+    margin: 0 auto 6px;
+    text-indent: -6px;
+}
+.ewm_mod .text h2 a {
+    color: #333333;
+}
+.ewm_mod .text p {
+    color: #999999;
+    font: 12px/16px "Tahoma";
+}
+.ewm_mod .text p a {
+    color: #999999;
+}
+.topBar_mod {
+    height: 18px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 66px;
+    z-index: 9;
+}
+.topBar_mod a {
+    position: relative;
+}
+.topBar_mod a, .topBar_mod .name {
+    border-right: 1px solid #e6e6e6;
+    color: #5c5c5c;
+    display: inline-block;
+    font: 14px/18px "Tahoma";
+    padding: 0 16px;
+}
+.topBar_mod a:hover {
+    color: #5c5c5c;
+}
+.topBar_mod a:focus {
+    outline: medium none;
+}
+.topBar_mod .name {
+    color: #cccccc;
+}
+.topBar_mod a.clearBor {
+    border: 0 none !important;
+    padding-right: 0 !important;
+}
+.topBar_mod .dytx {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg25.png") no-repeat scroll 0 0 / 7px auto;
+    display: block;
+    height: 7px;
+    position: absolute;
+    right: 8px;
+    top: 0;
+    width: 7px;
+}
+.search_mod {
+    margin-bottom: 10px;
+}
+.searchBoxA {
+    margin-bottom: 0;
+}
+.searchBoxA .searchBox {
+    border: 1px solid #cccccc;
+    float: right;
+    height: 26px;
+    position: relative;
+    top: 110px;
+    width: 280px;
+    z-index: 999;
+}
+.searchBoxB .searchBox {
+    border: 1px solid #cccccc;
+    display: none;
+    height: 26px;
+    margin-top: 10px;
+    position: relative;
+}
+.search_mod .searchBox .searchBtn {
+    display: block;
+    height: 26px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 34px;
+}
+.search_mod .searchBox .l {
+    float: none;
+    padding-right: 45px;
+    width: auto;
+}
+.search_mod .searchBox .l label {
+    color: #999999;
+    cursor: text;
+    left: 6px;
+    line-height: 18px;
+    position: absolute;
+    top: 4px;
+}
+.search_mod .searchBox .l input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    height: 26px;
+    line-height: 18px;
+    margin: 0 auto 0 10px;
+    outline: medium none;
+    width: 100%;
+}
+.search_mod .searchBox .searchBtn input {
+    background: #ffffff url("http://mat1.gtimg.com/www/mb/images/light_v2/bg27.png") no-repeat scroll 10px 6px;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.search_mod h2 {
+    color: #666666;
+    font: 16px/18px "Tahoma";
+    margin-top: 12px;
+}
+.search_mod h2 .searchWord {
+    font: 16px/18px "Tahoma";
+}
+.search_mod .list {
+    border-bottom: 1px solid #f2f2f0;
+    margin-bottom: 25px;
+    padding-bottom: 40px;
+}
+.search_mod .list .pt {
+    padding-top: 40px;
+}
+.search_mod .list .pt .txt {
+    padding-top: 5px;
+}
+.search_mod .list .pt .txt h3, .search_mod .list .pt .txt h3 a {
+    color: #181818;
+    font: 20px/32px "Microsoft YaHei";
+}
+.search_mod .list .pt .txt p {
+    color: #999999;
+    font: 12px/24px "Tahoma";
+    height: 24px;
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+.search_mod .list .pt .txt h4, .search_mod .list .pt .txt h4 a, .search_mod .list .pt .txt h4 a span {
+    color: #4476a6;
+}
+.search_mod .list .pt .face {
+    float: left;
+    height: 92px;
+    margin-right: 45px;
+}
+.search_mod .list .pt .face span {
+    border: 2px solid #ffffff;
+    border-radius: 100%;
+    box-shadow: 0 0 1px 0 #999999;
+    display: block;
+}
+.search_mod .list .pt .face span img {
+    border-radius: 100%;
+}
+.like_mod {
+    color: #bebebe;
+    float: right;
+    font: 12px/18px "Tahoma";
+    margin: 0 10px 0 auto;
+    position: relative;
+}
+.like_mod .addOne {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg04_20140227.png") no-repeat scroll 0 -93px;
+    display: none;
+    height: 18px;
+    left: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: -10px;
+    width: 22px;
+}
+.like_mod .num, .like_mod strong {
+    color: #bebebe;
+}
+.like_mod a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg04_20140227.png") no-repeat scroll 2px 2px;
+    color: #4077a5;
+    display: inline-block;
+    font: 12px/18px "Tahoma";
+    margin-right: 2px;
+    padding-left: 23px;
+}
+.like_mod a:hover {
+    background-position: 2px -17px;
+    text-decoration: none;
+}
+.like_mod a:focus {
+    outline: medium none;
+}
+.like_mod .likeBtnDisabled a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg04_20140227.png") no-repeat scroll 2px -35px;
+    color: #bebebe;
+    cursor: text;
+    text-decoration: none;
+}
+.commentNum_mod {
+    color: #bebebe;
+    float: right;
+    font: 12px/18px "Tahoma";
+}
+.commentNum_mod .num {
+    color: #bebebe;
+}
+.commentNum_mod a, .commentNum_mod .icon {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg04_20140227.png") no-repeat scroll 0 -52px;
+    color: #4077a5;
+    display: inline-block;
+    font: 12px/18px "Tahoma";
+    margin-right: 2px;
+    padding-left: 23px;
+}
+.commentNum_mod a:focus {
+    outline: medium none;
+}
+.commentNum_mod .icon {
+    background-position: 0 -53px;
+    height: 18px;
+    vertical-align: middle;
+    width: 0;
+}
+.commentNum_mod a:hover {
+    background-position: 0 -72px;
+    text-decoration: none;
+}
+.topic_mod {
+    margin: 0 auto;
+    padding-top: 144px;
+    width: 80%;
+}
+.topic_mod .explain .boxA {
+    display: none;
+}
+.topic_mod .explain .boxA .pt {
+    margin-left: -5px;
+}
+.topic_mod .explain .pt .pic {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg23.png") no-repeat scroll 7px bottom;
+    float: left;
+    height: 85px;
+    margin-right: 14px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    position: relative;
+    width: 60px;
+}
+.topic_mod .explain .boxA .pt .pic .num, .topic_mod .explain .boxA .pt .pic .numMax {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg24.png") no-repeat scroll 0 0;
+    bottom: 12px;
+    color: #ffffff;
+    display: inline-block;
+    font: 14px/14px "Times New Roman","Tahoma";
+    height: 14px;
+    left: 0;
+    padding-bottom: 4px;
+    position: absolute;
+    text-align: center;
+    width: 24px;
+    z-index: 9;
+}
+.topic_mod .explain .boxA .pt .pic .numMax {
+    font: 12px/14px "Times New Roman","Tahoma";
+}
+.topic_mod .explain .boxA .pt .pic img {
+    display: block;
+}
+.topic_mod .explain .boxA .pt .text {
+    width: auto;
+}
+.topic_mod .explain .boxA .pt .text h2 {
+    color: #333333;
+    font: 24px/24px "Microsoft YaHei";
+    margin-bottom: 8px;
+    padding: 0;
+    width: 100%;
+}
+.topic_mod .explain .boxA .pt .text h2 a {
+    color: #333333;
+}
+.topic_mod .explain .boxA .pt .text p {
+    color: #666666;
+    font: 14px/20px "Tahoma";
+    margin-bottom: 18px;
+    max-height: 60px;
+    overflow: hidden;
+}
+.topic_mod .explain .boxA .pt .text p a {
+    color: #666666;
+}
+.topic_mod .explain .boxB {
+    float: left;
+    height: 282px;
+    padding-bottom: 55px;
+    position: relative;
+    width: 190px;
+}
+.topic_mod .explain .boxB .text {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg19.png") no-repeat scroll 0 0;
+    bottom: 55px;
+    height: 124px;
+    left: -7px;
+    padding-top: 12px;
+    position: absolute;
+    width: 199px;
+}
+.topic_mod .explain .boxB .text h2 {
+    color: #333333;
+    font: 18px/24px "Microsoft YaHei";
+    margin-bottom: 12px;
+}
+.topic_mod .explain .boxB .text h2 a {
+    color: #333333;
+    float: left;
+    margin: -23px auto 7px 20px;
+    text-indent: 22px;
+    width: 166px;
+}
+.topic_mod .explain .boxB .text h2 a:hover {
+    color: #4073a2;
+    text-decoration: none;
+}
+.topic_mod .explain .boxB .text h2 .num, .topic_mod .explain .boxB .text h2 .numMax {
+    color: #ffffff;
+    display: inline-block;
+    font: 20px/22px "Times New Roman","Tahoma";
+    height: 22px;
+    margin-right: 9px;
+    text-align: center;
+    width: 38px;
+}
+.topic_mod .explain .boxB .text h2 .numMax {
+    font: 18px/22px "Times New Roman","Tahoma";
+}
+.topic_mod .explain .boxB .text p {
+    margin: 0 auto 10px;
+    width: 156px;
+}
+.topic_mod .explain .boxB .text p, .topic_mod .explain .boxB .text p a {
+    color: #666666;
+    font: 12px/20px "Tahoma";
+}
+.topic_mod .explain .boxB .text .data {
+    font: 12px/20px "Tahoma";
+    text-align: center;
+}
+.topic_mod .explain .boxB .text .data a {
+    border-right: 1px solid #d2d2d2;
+    color: #4073a2;
+    padding: 0 8px;
+}
+.topic_mod .explain .boxB .text .data a span {
+    color: #4073a2;
+}
+.topic_mod .explain .boxB .text .data a.clearBor {
+    border: 0 none;
+}
+.topic_mod .more {
+    border-top: 1px solid #e2e2e2;
+    margin-top: -20px;
+    padding-top: 38px;
+}
+.topic_mod .more h2 {
+    color: #666666;
+    font: 14px/16px "Tahoma";
+    margin-bottom: 30px;
+}
+.topic_mod .topicRecommend {
+    margin-top: -32px;
+}
+.topic_mod .topicRecommend h2 {
+    color: #666666;
+    font: 22px/24px "Microsoft YaHei";
+    margin-bottom: 30px;
+    padding-left: 5px;
+}
+.topic_mod .more .list, .topic_mod .topicRecommend .list {
+    float: left;
+    margin-left: -7px;
+    width: 100%;
+}
+.topic_mod .more .list ul, .topic_mod .topicRecommend .list ul {
+    width: 100%;
+}
+.topic_mod .more .list li, .topic_mod .topicRecommend .list li {
+    float: left;
+    height: 166px;
+    margin-bottom: 25px;
+    overflow: hidden;
+    width: 100%;
+}
+.topic_mod .more .list li .pt, .topic_mod .topicRecommend .list li .pt {
+    width: 100%;
+}
+.topic_mod .more .list li .pt .pic, .topic_mod .topicRecommend .list li .pt .pic {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg21.png") no-repeat scroll 7px bottom;
+    float: left;
+    height: 156px;
+    margin-right: 18px;
+    padding-bottom: 10px;
+    padding-left: 7px;
+    position: relative;
+    width: 107px;
+}
+.topic_mod .more .list li .pt .pic .num, .topic_mod .more .list li .pt .pic .numMax, .topic_mod .topicRecommend .list li .pt .pic .num, .topic_mod .topicRecommend .list li .pt .pic .numMax {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg20.png") no-repeat scroll 0 0;
+    bottom: 18px;
+    color: #ffffff;
+    display: inline-block;
+    font: 20px/22px "Times New Roman","Tahoma";
+    height: 22px;
+    left: 0;
+    padding-bottom: 7px;
+    position: absolute;
+    text-align: center;
+    width: 38px;
+    z-index: 9;
+}
+.topic_mod .more .list li .pt .pic .numMax, .topic_mod .topicRecommend .list li .pt .pic .numMax {
+    font: 18px/22px "Times New Roman","Tahoma";
+}
+.topic_mod .more .list li .pt .pic img, .topic_mod .topicRecommend .list li .pt .pic img {
+    display: block;
+}
+.topic_mod .more .list li .pt .text h2, .topic_mod .topicRecommend .list li .pt .text h2 {
+    color: #333333;
+    font: 18px/26px "Microsoft YaHei";
+    margin-bottom: 15px;
+    padding: 0;
+}
+.topic_mod .more .list li .pt .text h2 a, .topic_mod .topicRecommend .list li .pt .text h2 a {
+    color: #333333;
+}
+.topic_mod .more .list li .pt .text h3, .topic_mod .topicRecommend .list li .pt .text h3 {
+    color: #336699;
+    font: 12px/14px "Tahoma";
+    margin-bottom: 30px;
+    text-indent: -8px;
+}
+.topic_mod .more .list li .pt .text h3 span, .topic_mod .more .list li .pt .text h3 a, .topic_mod .topicRecommend .list li .pt .text h3 span, .topic_mod .topicRecommend .list li .pt .text h3 a {
+    color: #336699;
+}
+.topic_mod .more .list li .pt .text h3 a, .topic_mod .topicRecommend .list li .pt .text h3 a {
+    border-right: 1px solid #d2d2d2;
+    padding: 0 7px;
+}
+.topic_mod .more .list li .pt .text h3 a.cleaBor, .topic_mod .topicRecommend .list li .pt .text h3 a.cleaBor {
+    border: 0 none;
+    padding-right: 0;
+}
+.article_mod {
+    margin: 108px auto 0;
+}
+.article_mod .title h1 {
+    color: #333333;
+    font: 26px/34px "Microsoft YaHei";
+    margin-bottom: 18px;
+    text-align: left;
+}
+.article_mod .title h2 {
+    color: #8a8a8a;
+    font: 16px/18px "Microsoft YaHei";
+    margin-bottom: 18px;
+    text-align: left;
+}
+.article_mod .title h3 {
+    display: inline;
+    position: relative;
+    z-index: 9;
+}
+.article_mod .title h3 .date {
+    color: #cccccc;
+    font: 14px/18px "Tahoma";
+    text-align: left;
+}
+.article_mod .title h3 a {
+    color: #4073a2;
+    font: 14px/18px "Tahoma";
+    margin-right: 10px;
+    text-align: left;
+}
+.article_mod .shareMenu {
+    border-bottom: 1px solid #e5e5e5;
+    height: 23px;
+    margin-top: 8px;
+    padding-bottom: 1px;
+    position: relative;
+}
+.article_mod .shareMenu .btn {
+    float: right;
+    height: 23px;
+    width: 49px;
+}
+.article_mod .shareMenu .btn a {
+    background: #f1f1f1 none repeat scroll 0 0;
+    border: 1px solid #f1f1f1;
+    color: #666666;
+    display: block;
+    font: 12px/14px "Tahoma";
+    height: 16px;
+    padding-top: 5px;
+    text-align: center;
+    width: 47px;
+}
+.article_mod .shareMenu .btn a .jt {
+    border-color: #4073a2 rgba(0, 0, 0, 0) transparent;
+    border-style: solid dashed dashed;
+    border-width: 5px 5px 0;
+    display: inline-block;
+    font: 0px/0 "Tahoma";
+    margin: -4px auto 0 3px;
+    transition: all 0.2s ease-in 0s;
+    vertical-align: middle;
+}
+.article_mod .shareMenu .btn a:hover, .article_mod .shareMenu .btn a.down {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #d1d1d1;
+    text-decoration: none;
+}
+.article_mod .shareMenu .btn a:hover .jt, .article_mod .shareMenu .btn a.down .jt {
+    transform: rotate(180deg);
+}
+.article_mod .shareMenu .menu {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg02.png") no-repeat scroll 0 0;
+    height: 150px;
+    padding-top: 12px;
+    position: absolute;
+    right: 0;
+    top: 22px;
+    width: 95px;
+}
+.article_mod .shareMenu .menu ul {
+    margin: 0 auto;
+    width: 93px;
+}
+.article_mod .shareMenu .menu li {
+    float: left;
+    height: 24px;
+    width: 93px;
+}
+.article_mod .shareMenu .menu li a {
+    color: #5c5c5c;
+    display: block;
+    font: 12px/24px "Tahoma";
+    height: 24px;
+    text-align: left;
+    width: 100%;
+}
+.article_mod .shareMenu .menu li a:hover {
+    background: #f3f3f3 none repeat scroll 0 0;
+    color: #cd0000;
+    text-decoration: none;
+}
+.article_mod .shareMenu .menu li span {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg03.png") no-repeat scroll 0 0;
+    display: inline-block;
+    height: 16px;
+    margin: -2px 6px 0 11px;
+    vertical-align: middle;
+    width: 16px;
+}
+.article_mod .shareMenu .menu li .iconA {
+    background-position: 0 0;
+}
+.article_mod .shareMenu .menu li .iconB {
+    background-position: 0 -25px;
+}
+.article_mod .shareMenu .menu li .iconC {
+    background-position: 0 -49px;
+}
+.article_mod .shareMenu .menu li .iconD {
+    background-position: 0 -73px;
+}
+.article_mod .shareMenu .menu li .iconE {
+    background-position: 0 -97px;
+}
+.article_mod .shareMenu .menu li .iconF {
+    background-position: 0 -121px;
+}
+.article_mod .shareMenuV2 {
+    border-bottom: 1px solid #e5e5e5;
+    height: 50px;
+    margin-top: -30px;
+    position: relative;
+}
+.article_mod .shareMenuV2 .box {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 80px;
+}
+.article_mod .shareMenuV2 .btn {
+    height: 50px;
+    width: 80px;
+}
+.article_mod .shareMenuV2 .btn a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg05.png") no-repeat scroll 9px 17px;
+    border: 1px solid #ffffff;
+    color: #333333;
+    display: block;
+    font: 14px/20px "Tahoma";
+    height: 20px;
+    padding: 16px 0 12px 33px;
+    width: 45px;
+}
+.article_mod .shareMenuV2 .btn a:hover, .article_mod .shareMenuV2 .btn a.down {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #f0f0f0 #f0f0f0 #ffffff;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    text-decoration: none;
+}
+.article_mod .shareMenuV2 .btn a:focus {
+    outline: medium none;
+}
+.article_mod .shareMenuV2 .menu {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #ffffff none repeat scroll 0 0;
+    border-color: #ffffff #f0f0f0 #f0f0f0;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    padding-bottom: 10px;
+    width: 78px;
+}
+.article_mod .shareMenuV2 .menu li {
+    height: 32px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.article_mod .shareMenuV2 .menu li a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg05.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 32px;
+    margin: 0 auto;
+    opacity: 0.8;
+    overflow: hidden;
+    transition: opacity 0.5s ease 0s;
+    width: 32px;
+}
+.article_mod .shareMenuV2 .menu li a:focus {
+    outline: medium none;
+}
+.article_mod .shareMenuV2 .menu li a:hover {
+    opacity: 1;
+}
+.article_mod .shareMenuV2 .menu li .iconA {
+    background-position: 0 -32px;
+}
+.article_mod .shareMenuV2 .menu li .iconB {
+    background-position: 0 -118px;
+}
+.article_mod .shareMenuV2 .menu li .iconC {
+    background-position: 0 -161px;
+}
+.article_mod .shareMenuV2 .menu li .iconD {
+    background-position: 0 -75px;
+}
+.article_mod .shareMenuV2 .menu li .iconE {
+    background-position: 0 -290px;
+}
+.article_mod .shareMenuV2 .menu li .iconF {
+    background-position: 0 -333px;
+}
+.article_mod .text p {
+    color: #333333;
+    font: 14px/25px "Tahoma";
+    letter-spacing: 1px;
+    margin-top: 20px;
+    text-align: left;
+    text-indent: 28px;
+    word-break: normal;
+    word-wrap: break-word;
+}
+.article_mod .text p img {
+    display: inline;
+    margin: 8px auto 10px -28px;
+    width: 100%;
+}
+.article_mod .data {
+    margin-top: 45px;
+}
+.article_mod .data span, .article_mod .data span strong {
+    color: #bebebe;
+    font: 12px/14px "Verdana","Tahoma";
+}
+.article_mod .data .read strong {
+    font-weight: bold;
+}
+.article_mod .shareIcon {
+    border-bottom: 1px solid #e7e7e7;
+    height: 32px;
+    margin: 32px auto 0;
+    padding-bottom: 28px;
+}
+.article_mod .shareIcon strong {
+    color: #666666;
+    font: 300 14px/32px "Tahoma";
+}
+.article_mod .shareIcon ul, .article_mod .shareIcon strong {
+    float: left;
+}
+.article_mod .shareIcon ul li {
+    float: left;
+    height: 32px;
+    margin-right: 5px;
+    width: 32px;
+}
+.article_mod .shareIcon ul li .iconA {
+    background-position: 0 -32px;
+}
+.article_mod .shareIcon ul li .iconB {
+    background-position: 0 -118px;
+}
+.article_mod .shareIcon ul li .iconC {
+    background-position: 0 -161px;
+}
+.article_mod .shareIcon ul li .iconD {
+    background-position: 0 -75px;
+}
+.article_mod .shareIcon ul li .iconE {
+    background-position: 0 -290px;
+}
+.article_mod .shareIcon ul li .iconF {
+    background-position: 0 -333px;
+}
+.article_mod .shareIcon ul li a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg05.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 100%;
+    opacity: 0.8;
+    overflow: hidden;
+    transition: opacity 0.5s ease 0s;
+    width: 100%;
+}
+.article_mod .shareIcon ul li a:hover {
+    opacity: 1;
+}
+.article_mod .shareIcon ul li a:focus {
+    outline: medium none;
+}
+.article_mod .articleIndex_mod .moreArticle, .article_mod .articleIndex_mod .articleBox {
+    float: left;
+    margin-top: 40px;
+    width: 50%;
+}
+.article_mod .articleIndex_mod .articleBox {
+    margin-left: -7px;
+    padding-left: 7px;
+    width: 50%;
+}
+.article_mod .articleIndex_mod .articleBox .list {
+    float: left;
+    height: 166px;
+    margin-top: 3px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .list ul {
+    position: absolute;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .list li {
+    float: left;
+    height: 166px;
+    overflow: hidden;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt {
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .pic {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg21.png") no-repeat scroll 7px bottom;
+    float: left;
+    height: 156px;
+    margin-right: 24px;
+    padding-bottom: 10px;
+    padding-left: 7px;
+    position: relative;
+    width: 107px;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .pic .num, .article_mod .articleIndex_mod .articleBox .list li .pt .pic .numMax {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg20.png") no-repeat scroll 0 0;
+    bottom: 18px;
+    color: #ffffff;
+    display: inline-block;
+    font: 20px/22px "Times New Roman","Tahoma";
+    height: 22px;
+    left: 0;
+    padding-bottom: 7px;
+    position: absolute;
+    text-align: center;
+    width: 38px;
+    z-index: 9;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .pic .numMax {
+    font: 18px/22px "Times New Roman","Tahoma";
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .pic img {
+    display: block;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text {
+    float: left;
+    width: 50%;
+}
+.article_mod .articleIndex_mod .articleBox .only li .pt .text {
+    margin-top: -166px;
+    padding-left: 138px;
+    width: auto;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h2 {
+    color: #333333;
+    float: left;
+    font: 18px/28px "Microsoft YaHei";
+    margin-bottom: 9px;
+    padding: 0;
+    width: 85%;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h2 a {
+    color: #333333;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h3 {
+    color: #336699;
+    float: left;
+    font: 12px/14px "Tahoma";
+    margin-bottom: 30px;
+    text-indent: -8px;
+    width: 85%;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h3 span, .article_mod .articleIndex_mod .articleBox .list li .pt .text h3 a {
+    color: #336699;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h3 a {
+    border-right: 1px solid #d2d2d2;
+    padding: 0 7px 0 8px;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h3 a.cleaBor {
+    border: 0 none;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text h4 {
+    color: #666666;
+    float: left;
+    font: 12px/14px "Tahoma";
+    margin-bottom: 6px;
+    width: 85%;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text ul {
+    float: left;
+    margin-left: -8px;
+    position: static;
+    width: 85%;
+}
+.article_mod .articleIndex_mod .articleBox .only li .pt .text h2, .article_mod .articleIndex_mod .articleBox .only li .pt .text h3, .article_mod .articleIndex_mod .articleBox .only li .pt .text h4, .article_mod .articleIndex_mod .articleBox .only li .pt .text ul {
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .only li .pt .text h3 {
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text li {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg06.png") no-repeat scroll 0 12px;
+    color: #4073a2;
+    float: none;
+    font: 12px/26px "Tahoma";
+    height: auto;
+    padding-left: 8px;
+    position: relative;
+}
+.article_mod .articleIndex_mod .articleBox .list li .pt .text li a {
+    color: #4073a2;
+}
+.article_mod .articleIndex_mod .articleBox .jt {
+    position: relative;
+    right: 0;
+    top: -2px;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .topJt, .article_mod .articleIndex_mod .articleBox .bottomJt {
+    height: 34px;
+    position: absolute;
+    right: 0;
+    top: 45px;
+    width: 34px;
+}
+.article_mod .articleIndex_mod .articleBox .bottomJt {
+    top: 89px;
+}
+.article_mod .articleIndex_mod .articleBox .topJt a, .article_mod .articleIndex_mod .articleBox .bottomJt a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg13.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .articleBox .bottomJt a {
+    background-position: 0 -44px;
+}
+.article_mod .articleIndex_mod .articleBox .topJt a:hover {
+    background-position: -34px 0;
+}
+.article_mod .articleIndex_mod .articleBox .bottomJt a:hover {
+    background-position: -34px -44px;
+}
+.article_mod .articleIndex_mod .articleBox .topJt a:focus, .article_mod .articleIndex_mod .articleBox .bottomJt a:focus {
+    outline: medium none;
+}
+.article_mod .articleIndex_mod .moreArticle h2, .article_mod .articleIndex_mod .articleBox h2 {
+    color: #292929;
+    font: 600 14px/16px "Tahoma";
+    margin-bottom: 12px;
+    text-align: left;
+}
+.article_mod .articleIndex_mod .articleBox h2 {
+    padding-left: 7px;
+}
+.article_mod .articleIndex_mod .moreArticle ul {
+    float: left;
+    margin-left: -5px;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .moreArticle li {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg06.png") no-repeat scroll 3px 13px;
+    float: left;
+    font: 14px/30px "Tahoma";
+    text-indent: 14px;
+    width: 100%;
+}
+.article_mod .articleIndex_mod .moreArticle li a {
+    color: #4073a2;
+}
+.article_mod .publicationComment {
+    margin-top: 38px;
+}
+.article_mod .publicationComment h2 {
+    color: #292929;
+    font: 600 14px/16px "Tahoma";
+    margin-bottom: 12px;
+    text-align: left;
+}
+.article_mod .publicationComment textarea {
+    border: 2px solid #ebebeb;
+    height: 74px;
+    margin-bottom: 18px;
+    overflow-y: auto;
+    padding: 3px 0;
+    resize: none;
+    width: 99%;
+}
+.article_mod .publicationComment .commentTool {
+    color: #999999;
+    font: 12px/30px "Tahoma";
+}
+.article_mod .publicationComment .commentTool .clew {
+    color: #999999;
+    display: block;
+    float: right;
+    font: 12px/30px "Tahoma";
+    height: 30px;
+    margin-top: -6px;
+}
+.article_mod .publicationComment .commentTool .clew em {
+    color: #999999;
+    display: inline-block;
+    font: 300 26px/30px "Georgia","Tahoma";
+    margin: -10px 5px 0;
+    vertical-align: middle;
+}
+.article_mod .publicationComment .commentTool .clew .error {
+    color: #e56c0a;
+}
+.article_mod .publicationComment .commentTool .clew span {
+    display: block;
+    margin-top: 7px;
+}
+.article_mod .publicationComment .commentTool .synchronous {
+    border-left: 1px solid #d1d1d1;
+    color: #999999;
+    float: right;
+    font: 12px/16px "Tahoma";
+    margin-left: 14px;
+    padding-left: 12px;
+}
+.article_mod .publicationComment .commentTool .synchronous a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg07.png") no-repeat scroll right 0;
+    color: #999999;
+    display: inline-block;
+    height: 15px;
+    overflow: hidden;
+    padding-right: 16px;
+    padding-top: 1px;
+    text-decoration: none;
+}
+.article_mod .publicationComment .commentTool .synchronous a.down {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg07.png") no-repeat scroll right -16px;
+}
+.article_mod .publicationComment .commentTool .btn {
+    background: #ececec none repeat scroll 0 0;
+    float: right;
+    height: 24px;
+    margin: -3px 3px 0 10px;
+    width: 60px;
+}
+.article_mod .publicationComment .commentTool .btn a {
+    background: #5aa9e9 none repeat scroll 0 0;
+    border-bottom: 1px solid #266fb0;
+    border-right: 1px solid #266fb0;
+    color: #ffffff;
+    display: block;
+    font: 12px/23px "Tahoma";
+    height: 23px;
+    text-align: center;
+    text-decoration: none;
+    width: 59px;
+}
+.article_mod .publicationComment .commentTool .btn a:hover {
+    background: #71bbee none repeat scroll 0 0;
+    border-bottom: 1px solid #3387c1;
+    border-right: 1px solid #3387c1;
+}
+.article_mod .focusComment {
+    margin-top: 50px;
+}
+.article_mod .focusComment h2 {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg08.png") repeat-x scroll center bottom;
+    display: block;
+    margin-bottom: 10px;
+}
+.article_mod .focusComment h2 strong {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg09.png") repeat-x scroll center bottom;
+    color: #000000;
+    display: inline-block;
+    font: 600 14px/16px "Tahoma";
+    padding-bottom: 10px;
+}
+.article_mod .focusComment .commentBox .item {
+    border-bottom: 1px dashed #d1d1d1;
+    padding: 18px 0;
+    position: relative;
+    width: 100%;
+}
+.article_mod .focusComment .commentBox .clearBor {
+    border: 0 none;
+}
+.article_mod .focusComment .commentBox .text .msgCnt {
+    color: #333333;
+    font: 14px/26px "Tahoma";
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.article_mod .focusComment .commentBox .text .name {
+    color: #999999;
+    font: 600 14px/26px "Tahoma";
+    padding-right: 5px;
+}
+.article_mod .focusComment .commentBox .text .name a {
+    color: #4073a2;
+    font: 600 14px/26px "Tahoma";
+    padding-right: 5px;
+}
+.article_mod .focusComment .commentBox .bottomBar .date {
+    color: #759aad;
+    font: 12px/26px "Verdana","Tahoma";
+}
+.article_mod .focusComment .commentBox .bottomBar .date .l {
+    float: none;
+}
+.article_mod .focusComment .commentBox .bottomBar .commentBtn, .article_mod .focusComment .commentBox .bottomBar .delBtn {
+    float: right;
+    margin-top: 6px;
+}
+.article_mod .focusComment .commentBox .bottomBar .commentBtn a, .article_mod .focusComment .commentBox .bottomBar .delBtn a {
+    color: #006a92;
+    font: 12px/14px "Tahoma";
+}
+.article_mod .focusComment .commentBox .bottomBar .delBtn {
+    border-left: 1px solid #cccccc;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.article_mod .focusComment .commentBox .commentWindow {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #dee3e3;
+    margin: 15px auto 8px;
+    padding: 8px 0;
+    text-align: center;
+}
+.article_mod .focusComment .commentBox .commentWindow h3 {
+    color: #999999;
+    font: 12px/14px "Tahoma";
+    margin: 0 auto 10px;
+    text-align: left;
+    width: 97%;
+}
+.article_mod .focusComment .commentBox .commentWindow h3 .close {
+    float: right;
+    height: 15px;
+    width: 15px;
+}
+.article_mod .focusComment .commentBox .commentWindow h3 .close a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg10.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.zfWrap .cont, .talkWrap .cont {
+    position: relative;
+}
+.txtShadow {
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    word-break: break-all;
+    word-wrap: break-word;
+    z-index: -1;
+}
+.txtShadow b {
+    display: inline-block;
+    overflow: hidden;
+    width: 0;
+}
+.talkBox .txtShadow {
+    line-height: 21px;
+}
+.zfWrap .txtShadow, .talkWrap .txtShadow {
+    border: 1px solid;
+    line-height: 1.231;
+    padding: 2px 5px 0;
+    width: 97%;
+}
+.article_mod .focusComment .commentBox .commentWindow textarea {
+    border: 1px solid #cdcdcd;
+    color: #333333;
+    height: 40px;
+    margin: 0 auto;
+    overflow-y: auto;
+    padding: 4px 0;
+    resize: none;
+    width: 97%;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool {
+    color: #999999;
+    font: 12px/26px "Tahoma";
+    margin: 8px auto 0;
+    width: 98%;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .clew {
+    color: #999999;
+    float: right;
+    font: 12px/26px "Tahoma";
+    height: 26px;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .clew em {
+    color: #333333;
+    display: inline-block;
+    font: 300 22px/26px "Georgia","Tahoma";
+    margin: -9px 5px 0;
+    vertical-align: middle;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .clew em.error {
+    color: #e56c0a;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .btn {
+    background: #ececec none repeat scroll 0 0;
+    float: right;
+    height: 24px;
+    margin: 0 2px 0 10px;
+    width: 60px;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .btn a {
+    background: #5aa9e9 none repeat scroll 0 0;
+    border-bottom: 1px solid #266fb0;
+    border-right: 1px solid #266fb0;
+    color: #ffffff;
+    display: block;
+    font: 12px/23px "Tahoma";
+    height: 23px;
+    text-align: center;
+    text-decoration: none;
+    width: 59px;
+}
+.article_mod .focusComment .commentBox .commentWindow .commentTool .btn a:hover {
+    background: #71bbee none repeat scroll 0 0;
+    border-bottom: 1px solid #3387c1;
+    border-right: 1px solid #3387c1;
+}
+.article_mod .focusComment .page {
+    margin: 0 auto;
+    padding: 15px 0 35px;
+}
+.article_mod .focusComment .page .pageNum {
+    color: #666666;
+    display: none;
+    float: right;
+    font: 16px/30px "Tahoma";
+    margin-right: 5px;
+}
+.article_mod .focusComment .page .pageNum em {
+    color: #666666;
+    font: 16px/30px "Tahoma";
+}
+.article_mod .focusComment .page ul {
+    float: right;
+}
+.article_mod .focusComment .page li {
+    float: left;
+    height: 20px;
+    margin-right: 5px;
+}
+.article_mod .focusComment .page li a {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #c0c0c0;
+    color: #4073a2;
+    display: block;
+    font: 12px/20px "Verdana","Tahoma";
+    height: 21px;
+    text-align: center;
+    text-decoration: none;
+    width: 24px;
+}
+.article_mod .focusComment .page li.ne a, .article_mod .focusComment .page li.pr a {
+    font: 12px/18px "Tahoma";
+    height: 19px;
+    padding: 2px 10px 0;
+    width: auto !important;
+}
+.article_mod .focusComment .page li a:hover, .article_mod .focusComment .page li.now a {
+    background: #838383 none repeat scroll 0 0;
+    border: 1px solid #838383;
+    color: #ffffff;
+    text-decoration: none;
+}
+.article_mod .focusComment .page li a:focus {
+    outline: medium none;
+}
+.article_mod .focusComment .page li.now a {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #ffffff;
+    color: #333333;
+    font-weight: bold;
+    text-decoration: none;
+    width: 16px;
+}
+.article_mod .focusComment .page li.more a, .article_mod .focusComment .page li.more a:hover {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #ffffff;
+    color: #666666;
+    width: 14px;
+}
+.articleList_mod {
+    padding-top: 110px;
+}
+.articleList_mod .title {
+    border-bottom: 1px solid #e2e2e2;
+    height: 26px;
+    margin-bottom: 13px;
+    padding-bottom: 8px;
+    position: relative;
+    width: 100%;
+}
+.articleList_mod .title strong {
+    color: #cccccc;
+    float: left;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    margin-right: 16px;
+}
+.articleList_mod .title strong.now a, .articleList_mod .title strong.tit, .articleList_mod .title strong.menu a {
+    border-bottom: 1px solid #333333;
+    color: #666666;
+    padding: 0 6px 8px;
+}
+.articleList_mod .title strong.menu a .jtDown, .articleList_mod .title strong.menu a .jtUp {
+    border-color: #333333 rgba(0, 0, 0, 0) transparent;
+    border-style: solid dashed dashed;
+    border-width: 5px 5px 0;
+    display: inline-block;
+    font: 0px/0 "Tahoma";
+    margin-left: 8px;
+    vertical-align: middle;
+}
+.articleList_mod .title strong.menu a .jtUp {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #333333;
+    border-style: dashed dashed solid;
+    border-width: 0 5px 5px;
+}
+.articleList_mod .title strong a {
+    border-bottom: 1px solid #e2e2e2;
+    color: #cccccc;
+    display: inline-block;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    padding: 0 6px 8px;
+    text-decoration: none;
+}
+.articleList_mod .title strong a:hover {
+    color: #4073a2;
+}
+.articleList_mod .title strong a:focus {
+    outline: medium none;
+}
+.articleList_mod .nav {
+    margin: 0 auto 0 -6px;
+}
+.articleList_mod .nav li {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg28.png") no-repeat scroll right 4px;
+    float: left;
+    height: 20px;
+    margin-bottom: 3px;
+    padding: 0 7px;
+    text-align: center;
+}
+.articleList_mod .nav li a {
+    color: #666666;
+    display: block;
+    font: 14px/16px "Tahoma";
+    margin: 0 auto;
+    padding: 2px 6px;
+}
+.articleList_mod .nav li a:focus {
+    outline: medium none;
+}
+.articleList_mod .nav li.now a {
+    background: #666666 none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #ffffff;
+    cursor: text;
+    text-decoration: none;
+}
+.articleList_mod .nav li.clearBor {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+}
+.articleList_mod .focusImg {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg12.gif") no-repeat scroll center center;
+    margin: 0 auto 10px;
+    min-height: 100px;
+    padding-top: 18px;
+    position: relative;
+    width: 100%;
+}
+.articleList_mod .focusImg a {
+    cursor: pointer;
+    display: block;
+    min-height: 100px;
+    position: relative;
+    text-decoration: none;
+    width: 100%;
+}
+.articleList_mod .focusImg img {
+    width: 95%;
+}
+.articleList_mod .focusImg h2 {
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+    bottom: 42px;
+    color: #ffffff;
+    font: 26px/28px "Microsoft YaHei";
+    left: 8px;
+    padding: 8px;
+    position: absolute;
+    white-space: nowrap;
+}
+.articleList_mod .focusImg h3 {
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+    bottom: 11px;
+    color: #ffffff;
+    font: 12px/14px "Tahoma";
+    left: 8px;
+    padding: 6px;
+    position: absolute;
+    white-space: nowrap;
+}
+.articleList_mod .teamList .item {
+    border-bottom: 1px solid #f2f2f0;
+    padding: 15px 10px 20px;
+    position: relative;
+}
+.articleList_mod .teamList .item:hover, .articleList_mod .teamList .itemHover {
+    background: #fafafa none repeat scroll 0 0;
+    cursor: pointer;
+}
+.articleList_mod .teamList .item .item_edit {
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 28px;
+}
+.item_alter, .item_delete {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg04_20140227.png") repeat scroll 0 0;
+    display: inline-block;
+    height: 18px;
+    margin-left: 15px;
+    width: 19px;
+}
+.articleList_mod .teamList .item:hover .item_edit {
+    display: block;
+}
+.item_alter:hover, .item_delete:hover {
+    transform: scale(1.1);
+}
+.item_alter {
+    background-position: -2px -117px;
+}
+.item_delete {
+    background-position: -2px -142px;
+}
+.articleList_mod .teamList .item .pt .haveImg {
+    padding-left: 207px;
+}
+.articleList_mod .teamList .item .pt .pic {
+    float: left;
+}
+.articleList_mod .teamList .item .pt .pic img {
+    margin-top: 6px;
+}
+.articleList_mod .teamList .item .pt .txt h2, .articleList_mod .teamList .item .pt .txt h2 span {
+    color: #333333;
+    font: 300 24px/40px "Microsoft YaHei";
+    margin-bottom: 6px;
+}
+.articleList_mod .teamList .item .pt .txt h2 a {
+    color: #333333;
+    text-decoration: none;
+}
+.articleList_mod .teamList .item .pt .txt h2 a:hover, .articleList_mod .teamList .item:hover .pt .txt h2 a, .articleList_mod .teamList .itemHover .pt .txt h2 a {
+    color: #4073a2;
+}
+.articleList_mod .teamList .item .pt .txt h2 .tj, .articleList_mod .teamList .item .pt .txt h2 .unique {
+    background: #990201 none repeat scroll 0 0;
+    border-radius: 4px;
+    color: #ffffff;
+    display: inline-block;
+    font: 12px/14px "Tahoma";
+    margin-right: 5px;
+    padding: 2px 3px 3px;
+    vertical-align: -3px;
+    width: 12px;
+    word-break: break-all;
+}
+.articleList_mod .teamList .item .pt .txt h3 {
+    color: #999999;
+    font: 16px/20px "Microsoft YaHei";
+    margin-bottom: 15px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.articleList_mod .teamList .item .pt .txt p {
+    color: #333333;
+    font: 14px/24px "Tahoma";
+    padding-bottom: 25px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.articleList_mod .teamList .item .pt .txt p span {
+    color: #333333;
+    font: 14px/24px "Tahoma";
+}
+.articleList_mod .teamList .item .pt .txt .commentNum_mod, .articleList_mod .teamList .item .pt .txt .like_mod {
+}
+.articleList_mod .teamList .item .pt .txt .data a {
+    color: #4476a6;
+}
+.articleList_mod .teamList .item .pt .txt .data .author, .articleList_mod .teamList .item .pt .txt .data .time, .articleList_mod .teamList .item .pt .txt .data .read, .articleList_mod .teamList .item .pt .txt .data .include {
+    color: #bebebe;
+    font: 300 12px/18px "Tahoma";
+    margin-right: 10px;
+}
+.articleList_mod .teamList .item .pt .txt .data .read .num {
+    color: #bebebe;
+    font: 300 12px/18px "Tahoma";
+}
+.articleList_mod .none {
+    margin: 160px auto 200px;
+    width: 336px;
+}
+.articleList_mod .none h1 {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg15.png") repeat scroll 0 0;
+    font: 12px/500px "宋体";
+    height: 58px;
+    overflow: hidden;
+    width: 336px;
+}
+.articleList_mod .none .more {
+    font: 14px/16px "Tahoma";
+    margin-top: 38px;
+    padding-right: 25px;
+    text-align: right;
+}
+.articleList_mod .none .more a {
+    color: #4576a6;
+    font: 14px/16px "Tahoma";
+}
+.pageMore_mod {
+    height: 35px;
+    margin: 20px auto 0;
+    width: 100%;
+}
+.pageMore_mod a {
+    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #f8f8f8, #ebebeb 100%) repeat scroll 0 0;
+    border: 1px solid #dcdcdc;
+    color: #4172a1;
+    display: block;
+    font: 600 14px/34px "Tahoma";
+    height: 35px;
+    text-align: center;
+}
+.pageMore_mod a:hover {
+    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #f0f0f0, #ebebeb 100%) repeat scroll 0 0;
+    text-decoration: none;
+}
+.pageMore_mod a:focus {
+    outline: medium none;
+}
+.pageMore_mod a.down, .pageMore_mod a.down:hover {
+    background: #f7f7f7 none repeat scroll 0 0;
+    color: #cccccc;
+    cursor: default;
+    position: relative;
+}
+.pageMore_mod a .jh {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg12.gif") no-repeat scroll 0 0;
+    display: none;
+    height: 16px;
+    margin-right: 5px;
+    overflow: hidden;
+    vertical-align: middle;
+    width: 16px;
+}
+.pageMore_mod a.down .jh {
+    display: inline-block;
+}
+.bigPic_mod {
+    background-position: center center;
+    background-size: cover;
+    height: 530px;
+    width: 100%;
+}
+.af {
+    display: none;
+    left: 0;
+    position: absolute;
+    top: 250px;
+}
+.footer_mod {
+    padding: 50px 0;
+}
+.footer_mod p {
+    color: #bdbdbd;
+    font: 12px/22px "Tahoma";
+    text-align: center;
+}
+.footer_mod p a {
+    color: #bdbdbd;
+    padding: 0 12px;
+}
+.footer_mod p a:hover {
+    color: #bdbdbd;
+}
+.subscription_mod .list {
+    margin-top: 60px;
+}
+.subscription_mod .list li {
+    float: left;
+    padding-bottom: 60px;
+    text-align: center;
+    width: 25%;
+}
+.subscription_mod .list li img {
+    border: 5px solid #e1e1da;
+    display: block;
+    margin: 0 auto 12px;
+}
+.subscription_mod .list li a {
+    color: #151515;
+    display: block;
+    font: 16px/18px "Microsoft YaHei";
+    margin: 0 auto;
+    width: 110px;
+}
+.subscription_mod .list li a:hover {
+    color: #4073a2;
+    text-decoration: none;
+}
+.subscription_mod .list li a:focus {
+    outline: medium none;
+}
+.subscription_mod .list li .dyBtn {
+    float: none !important;
+    margin-right: auto !important;
+    margin-top: 15px;
+}
+.subscription_mod .none {
+    margin: 160px auto 200px;
+    width: 326px;
+}
+.subscription_mod .none h1 {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg14.png") repeat scroll 0 0;
+    font: 12px/500px "Tahoma";
+    height: 68px;
+    overflow: hidden;
+    width: 326px;
+}
+.subscription_mod .none .more {
+    font: 14px/16px "Tahoma";
+    margin-top: 38px;
+    padding-right: 25px;
+    text-align: right;
+}
+.subscription_mod .none .more a {
+    color: #4576a6;
+    font: 14px/16px "Tahoma";
+}
+.dyBtn {
+    color: #333333;
+    display: inline-block;
+    float: right;
+    height: 24px;
+    margin-right: 10px;
+    text-align: center;
+    width: 60px;
+}
+.dyBtn a {
+    background: #ebebeb none repeat scroll 0 0;
+    border-bottom: 1px solid #b3b3b4;
+    border-right: 1px solid #b3b3b4;
+    color: #333333;
+    display: block;
+    font: 12px/20px "Tahoma" !important;
+    height: 21px !important;
+    padding-top: 2px !important;
+    text-decoration: none !important;
+    width: 59px !important;
+}
+.dyBtn a:hover {
+    background: #f4f4f4 none repeat scroll 0 0;
+    border-bottom: 1px solid #d4d4d4;
+    border-right: 1px solid #d4d4d4;
+    color: #333333 !important;
+}
+.dyBtn a:focus {
+    outline: medium none;
+}
+.dyBtn a em {
+    color: #4073a2;
+    display: inline-block;
+    font: 300 20px/23px "arial";
+    margin: -3px 3px 0 auto;
+    vertical-align: middle;
+}
+.dyBtn a.dyBtnCancel {
+    background: #ebebeb none repeat scroll 0 0;
+    border-bottom: 1px solid #b3b3b4;
+    border-right: 1px solid #b3b3b4;
+    color: #333333;
+    display: block;
+    font: 12px/20px "Tahoma";
+    height: 21px;
+    padding-top: 2px;
+    text-decoration: none;
+    width: 59px;
+}
+.dyBtn a.dyBtnCancel:hover {
+    background: #f4f4f4 none repeat scroll 0 0;
+    border-bottom: 1px solid #d4d4d4;
+    border-right: 1px solid #d4d4d4;
+}
+.dyBtn a.dyBtnCancel em {
+    color: #cfcfcf;
+    display: inline-block;
+    font: 300 24px/26px "arial";
+    margin: -6px 3px 0 auto;
+    vertical-align: middle;
+}
+.topicList_mod {
+    padding-top: 18px;
+}
+.topicList_mod li {
+    float: left;
+    height: 282px;
+    margin-right: 35px;
+    padding-bottom: 55px;
+    position: relative;
+    width: 190px;
+}
+.topicList_mod li.clearMar {
+    margin-right: 0;
+}
+.topicList_mod li .text {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg19.png") no-repeat scroll 0 0;
+    bottom: 55px;
+    height: 124px;
+    left: -7px;
+    padding-top: 12px;
+    position: absolute;
+    width: 199px;
+}
+.topicList_mod li .text h2 {
+    color: #333333;
+    font: 18px/24px "Microsoft YaHei";
+    margin-bottom: 12px;
+}
+.topicList_mod li .text h2 a {
+    color: #333333;
+    float: left;
+    margin: -23px auto 7px 20px;
+    text-indent: 22px;
+    width: 166px;
+}
+.topicList_mod li .text h2 a:hover {
+    color: #4073a2;
+    text-decoration: none;
+}
+.topicList_mod li .text h2 .num, .topicList_mod li .text h2 .numMax {
+    color: #ffffff;
+    display: inline-block;
+    font: 20px/22px "Times New Roman","Tahoma";
+    height: 22px;
+    margin-right: 9px;
+    text-align: center;
+    width: 38px;
+}
+.topicList_mod li .text h2 .numMax {
+    font: 18px/22px "Times New Roman","Tahoma";
+}
+.topicList_mod li .text p {
+    margin: 0 auto 10px;
+    width: 156px;
+}
+.topicList_mod li .text p, .topicList_mod li .text p a {
+    color: #666666;
+    font: 12px/20px "Tahoma";
+}
+.topicList_mod li .text .data {
+    font: 12px/20px "Tahoma";
+    text-align: center;
+}
+.topicList_mod li .text .data a {
+    border-right: 1px solid #d2d2d2;
+    color: #4073a2;
+    padding: 0 8px;
+}
+.topicList_mod li .text .data a span {
+    color: #4073a2;
+}
+.topicList_mod li .text .data a.clearBor {
+    border: 0 none;
+}
+.topicList_mod li .more {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg22.png") no-repeat scroll 0 0;
+    color: #336699;
+    font: 12px/270px "Tahoma";
+    height: 280px;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 192px;
+}
+.topicList_mod li .more a {
+    color: #336699;
+}
+.authorIndex_mod {
+    margin-top: 110px;
+}
+.authorIndex_mod .title {
+    border-bottom: 1px solid #e2e2e2;
+    height: 26px;
+    padding-bottom: 8px;
+    position: relative;
+}
+.authorIndex_mod .title strong {
+    color: #666666;
+    float: left;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    margin-right: 16px;
+}
+.authorIndex_mod .title strong.now a, .authorIndex_mod .title strong.tit {
+    border-bottom: 1px solid #333333;
+    color: #cccccc;
+    padding: 0 6px 8px;
+}
+.authorIndex_mod .title strong.tit {
+    color: #666666;
+}
+.authorIndex_mod .title strong a {
+    border-bottom: 1px solid #e2e2e2;
+    color: #cccccc;
+    display: inline-block;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    padding: 0 6px 8px;
+    text-decoration: none;
+}
+.authorIndex_mod .title strong a:hover {
+    color: #4073a2;
+}
+.authorIndex_mod .title strong a:focus {
+    outline: medium none;
+}
+.authorIndex_mod .title strong.menu a .jtDown, .authorIndex_mod .title strong.menu a .jtUp {
+    border-color: #333333 rgba(0, 0, 0, 0) transparent;
+    border-style: solid dashed dashed;
+    border-width: 5px 5px 0;
+    display: inline-block;
+    font: 0px/0 "Tahoma";
+    margin-left: 8px;
+    vertical-align: middle;
+}
+.authorIndex_mod .title strong.menu a .jtUp {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #333333;
+    border-style: dashed dashed solid;
+    border-width: 0 5px 5px;
+}
+.authorIndex_mod .index {
+    margin-top: 22px;
+}
+.authorIndex_mod .index ul {
+    padding: 0 6px;
+}
+.authorIndex_mod .index li {
+    float: left;
+    height: 23px;
+    margin-bottom: 5px;
+    width: 23px;
+}
+.authorIndex_mod .index li a {
+    color: #333333;
+    display: block;
+    font: 300 12px/22px "Tahoma";
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+.authorIndex_mod .index li a:hover, .authorIndex_mod .index li a.now {
+    background: #eaeaea none repeat scroll 0 0;
+    text-decoration: none;
+}
+.authorIndex_mod .nameBox {
+    margin-top: 32px;
+    padding: 0 6px;
+}
+.authorIndex_mod .nameBox .name {
+    border-bottom: 1px solid #eaeaea;
+    padding: 26px 0 32px;
+}
+.authorIndex_mod .nameBox .name h3 {
+    text-align: left;
+}
+.authorIndex_mod .nameBox .name h3 a {
+    background: #eaeaea none repeat scroll 0 0;
+    color: #333333;
+    display: block;
+    font: 300 22px/36px "Tahoma";
+    height: 36px;
+    text-align: center;
+    text-decoration: none;
+    width: 36px;
+}
+.authorIndex_mod .nameBox .name ul {
+    margin-top: 24px;
+}
+.authorIndex_mod .nameBox .name li {
+    display: inline;
+    margin-right: 24px;
+}
+.authorIndex_mod .nameBox .name li a {
+    color: #333333;
+    display: inline-block;
+    font: 14px/36px "Tahoma";
+}
+.bjwz_mod {
+    margin: 0 auto;
+    width: 810px;
+}
+.bjwz_mod .hd {
+    border-bottom: 1px solid #e2e2e2;
+    height: 26px;
+    margin-bottom: 30px;
+    padding-bottom: 8px;
+    position: relative;
+}
+.bjwz_mod .hd h2 strong {
+    color: #666666;
+    float: left;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    margin-right: 20px;
+}
+.bjwz_mod .hd h2 strong.tit {
+    border-bottom: 1px solid #333333;
+    color: #666666;
+    padding: 0 6px 8px;
+}
+.bjwz_mod .bd {
+    padding-top: 20px;
+}
+.bjwz_mod .bd .l {
+    color: #333333;
+    font: 14px/26px "Tahoma";
+    margin-right: 10px;
+    text-align: right;
+    width: 58px;
+}
+.bjwz_mod .bd .r {
+    color: #999999;
+    float: left;
+    font: 12px/14px "Tahoma";
+    width: 700px;
+}
+.bjwz_mod .bd .red {
+    color: #cc0000;
+}
+.bjwz_mod .bd .r input {
+    border: 1px solid #b3b3b3;
+    color: #333333;
+    font: 14px/16px "Tahoma";
+    height: 21px;
+    margin-right: 5px;
+    padding: 2px;
+    vertical-align: text-bottom;
+    width: 391px;
+}
+.bjwz_mod .bd .r textarea.zy {
+    border: 1px solid #b3b3b3;
+    color: #333333;
+    font: 14px/16px "Tahoma";
+    height: 54px;
+    margin-right: 5px;
+    padding: 2px;
+    vertical-align: text-bottom;
+    width: 570px;
+}
+.bjwz_mod .bd .title, .bjwz_mod .bd .subhead {
+    margin: 0 auto 14px;
+}
+.bjwz_mod .bd .excerpta {
+    margin: 0 auto 20px;
+    width: 878px;
+}
+.bjwz_mod .bd .excerpta .r {
+    font: 12px/14px "Tahoma";
+}
+.bjwz_mod .bd .editorBox {
+    margin: 0 auto 20px;
+}
+.bjwz_mod .bd .editorBox .r .box {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #b3b3b3;
+    float: left;
+    padding: 1px;
+}
+.bjwz_mod .bd .fbl {
+    height: 140px;
+    padding-top: 25px;
+}
+.bjwz_mod .bd .fl {
+    border-bottom: 1px solid #eaeaea;
+    color: #333333;
+    font: 14px/16px "Tahoma";
+    margin: 0 auto 30px;
+    padding: 0 0 23px 12px;
+}
+.bjwz_mod .bd .fl label {
+    color: #666666;
+    font: 12px/14px "Tahoma";
+    margin-right: 18px;
+}
+.bjwz_mod .bd .fl label input {
+    margin: -3px 3px 0 auto;
+    vertical-align: middle;
+}
+.bjwz_mod .bd .fb {
+    margin: 0 auto;
+    padding-left: 12px;
+}
+.bjwz_mod .bd .fb a {
+    color: #266070;
+}
+.bjwz_mod .bd .fb .btn {
+    display: inline-block;
+    height: 26px;
+    margin-right: 17px;
+    vertical-align: middle;
+    width: 85px;
+}
+.bjwz_mod .bd .fb .btn a {
+    background: #838383 none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #ffffff;
+    display: block;
+    font: 14px/26px "Tahoma";
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+}
+.bjwz_mod .bd .fb .btn a:hover {
+    background: #ababab none repeat scroll 0 0;
+}
+.bjwz_mod .bd .fb .btn a:focus {
+    outline: medium none;
+}
+.errorPage_mod {
+    margin: 0 auto 60px;
+    width: 100%;
+}
+.errorPage_mod a:focus {
+    outline: medium none;
+}
+.errorPage_mod img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+.topBtn_mod {
+    bottom: 50px;
+    height: 50px;
+    position: fixed;
+    right: 50px;
+    width: 50px;
+}
+.topBtn_mod a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg17.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 50px;
+    overflow: hidden;
+    width: 50px;
+}
+.topBtn_mod a:hover {
+    background-position: 0 -50px;
+}
+.topBtn_mod a:focus {
+    outline: medium none;
+}
+.browserUpdate_mod {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
+.browserUpdate_mod .txt {
+    background: #4477a7 none repeat scroll 0 0;
+    color: #ffffff;
+    font: 12px/14px "Tahoma";
+    height: 30px;
+    padding-top: 12px;
+    text-align: center;
+}
+.browserUpdate_mod .txt a {
+    color: #ffffff;
+}
+.browserUpdate_mod .txt .closeBox {
+    display: inline-block;
+    vertical-align: middle;
+}
+.browserUpdate_mod .txt .closeBox a {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg18.png") no-repeat scroll 0 0;
+    display: block;
+    font: 12px/500px "Tahoma";
+    height: 11px;
+    overflow: hidden;
+    text-decoration: none;
+    width: 11px;
+}
+.layoutA, .layoutB, .layoutC {
+    margin: 0 auto;
+    width: 1000px;
+}
+.layoutA .left, .layoutB .left, .layoutC .left {
+    display: inline-block;
+    float: right;
+    width: 300px;
+}
+.layoutA .right, .layoutB .right, .layoutC .right {
+    border-right: 1px solid #d1d1d1;
+    padding-right: 59px;
+    width: 640px;
+}
+.top_mod {
+    float: left;
+    margin: 0 auto;
+    position: relative;
+    width: 640px;
+}
+.layoutD .top_mod {
+    margin-top: -110px;
+    width: 100%;
+}
+.layoutD_B .top_mod {
+    margin-top: -145px;
+}
+.layoutA .left .authorBox_mod .boxB {
+    display: none;
+}
+.layoutA .right .articleList_mod .teamList .item .pt .txt .con .data .commentNum_mod {
+}
+.layoutA .right .articleList_mod .teamList .item .pt .txt .con .data .commentNum_mod .icon {
+}
+.layoutB .left {
+}
+.layoutC .left .author_mod {
+    background: #ffffff none repeat scroll 0 0;
+    margin: 0 auto;
+    padding: 70px 10% 20px;
+    position: relative;
+}
+.layoutC .left .author_mod .face {
+    left: 50%;
+    margin-left: -56px;
+    position: absolute;
+    top: -54px;
+}
+.layoutD {
+    margin: 0 auto;
+    padding-top: 110px;
+    position: relative;
+    width: 915px;
+}
+.layoutD_B {
+    padding-top: 145px;
+}
+@media only screen and (min-width: 1240px) {
+    .layoutA, .layoutB, .layoutC {
+        width: 1200px;
+    }
+    .layoutA .left, .layoutB .left, .layoutC .left {
+        width: 480px;
+    }
+    .top_mod {
+        margin-left: 20px;
+    }
+    .layoutD .top_mod {
+        margin-left: auto;
+    }
+    .authorBox_mod {
+        padding: 112px 0 0;
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 1240px) {
+    .layoutA, .layoutB, .layoutC {
+        width: 1000px;
+    }
+    .layoutA .left, .layoutB .left, .layoutC .left {
+        width: 32%;
+    }
+    .layoutA .right, .layoutB .right, .layoutC .right, .top_mod {
+        padding-right: 6%;
+        width: 61%;
+    }
+    .top_mod {
+        float: right;
+        margin-right: 38%;
+        padding-right: 1px;
+    }
+    .layoutD .top_mod {
+        float: left;
+        margin-right: auto;
+        padding-right: 0;
+        width: 100%;
+    }
+    .authorBox_mod {
+        padding: 112px 0 0;
+        width: 80%;
+    }
+    .topicList_mod li {
+        margin-right: 20px;
+    }
+}
+@media only screen and (max-width: 960px) {
+    .top_mod {
+        float: none;
+        margin: 0 auto;
+        padding: 0;
+        width: 91%;
+    }
+    .logo_mod {
+        top: 20px;
+    }
+    .topBar_mod {
+        top: 56px;
+    }
+    .layoutD .top_mod {
+        float: left;
+        width: 100%;
+    }
+    .articleList_mod .teamList .item .pt .txt p, .articleList_mod .teamList .item .pt .txt p span {
+        font: 16px/26px "Tahoma";
+    }
+    .topic_mod {
+        padding-top: 100px;
+        width: 91%;
+    }
+    .topic_mod .explain .boxA {
+        display: block;
+    }
+    .topic_mod .explain .boxB, .topic_mod .more {
+        display: none;
+    }
+    .topBtn_mod {
+        display: none;
+    }
+    .articleList_mod {
+        padding-top: 0;
+    }
+    .layoutA, .layoutB, .layoutC {
+        width: auto;
+    }
+    .topicRecommend {
+        display: none;
+    }
+    .searchBoxA .searchBox {
+        display: none;
+    }
+    .searchBoxB .searchBox {
+        display: block;
+    }
+    .layoutA .left, .layoutA .right {
+        float: none;
+    }
+    .layoutA .left {
+        max-width: 100%;
+        width: 100%;
+    }
+    .layoutA .right {
+        border: 0 none;
+        margin: 0 auto;
+        max-width: 91%;
+        padding: 0;
+        width: 91%;
+    }
+    .layoutA .left .authorBox_mod {
+        border-bottom: 1px solid #cccccc;
+        margin: 0 auto;
+        padding-left: 0;
+        padding-top: 100px;
+        width: 91%;
+    }
+    .layoutA .left .authorBox_mod .boxA {
+        display: none;
+    }
+    .layoutA .left .authorBox_mod .boxB {
+        display: block;
+    }
+    .layoutA .left .authorBox_mod .topJt, .layoutA .left .authorBox_mod .bottomJt {
+        display: block;
+        top: 162px;
+    }
+    .layoutA .left .authorBox_mod .bottomJt {
+        top: 207px;
+    }
+    .layoutA .left .authorBox_mod .list {
+        float: left;
+        height: 125px;
+        overflow: hidden;
+        position: relative;
+        text-align: justify;
+        width: 94%;
+    }
+    .layoutA .left .authorBox_mod .list ul {
+        left: 0;
+        position: absolute;
+        top: 0;
+    }
+    .layoutA .left .authorBox_mod .list li {
+        float: left;
+        height: 100px;
+        margin-bottom: 25px;
+        overflow: hidden;
+        width: 100%;
+    }
+    .layoutA .left .authorBox_mod .more, .layoutA .left .authorBox_mod .dy, .layoutA .right .articleList_mod .teamList .item .pt .txt .pic img, .layoutA .right .articleList_mod .teamList .item .pt .txt h2 .tj, .layoutA .right .articleList_mod .teamList .item .pt .txt .contro, .layoutA .right .articleList_mod .teamList .item .pt .txt h2 .zd {
+        display: none;
+    }
+    .articleList_mod .teamList .item:hover .item_edit {
+        display: none;
+    }
+    .layoutA .right .articleList_mod, .layoutA .right .authorIndex_mod {
+        margin-top: 10px;
+    }
+    .layoutA .right .articleList_mod .teamList .item .pt .haveImg {
+        padding-left: 0;
+    }
+    .layoutA_C .left {
+        display: none;
+    }
+    .layoutA_C .right .articleList_mod {
+        margin-top: 0;
+        padding-top: 98px;
+    }
+    .layoutB .left {
+        border: 0 none;
+        float: none;
+        height: auto;
+        max-width: 91%;
+        position: static;
+        width: 91%;
+    }
+    .layoutB .right .article_mod {
+        padding-top: 94px;
+    }
+    .layoutB .left .author_mod {
+        display: none;
+    }
+    .layoutB .right .author_mod {
+        border-bottom: 1px solid #e5e5e5;
+        display: block;
+        margin: 30px auto 0;
+        width: 100%;
+    }
+    .layoutB .right .author_mod .face {
+        float: left;
+        margin: -5px 15px 0 auto;
+    }
+    .layoutB .right .author_mod .face img {
+        height: 86px;
+        width: 86px;
+    }
+    .layoutB .right .author_mod .name {
+        margin: 0 auto 10px;
+        text-align: left;
+    }
+    .layoutB .right .author_mod .text {
+        height: auto;
+        line-height: 24px;
+        margin-bottom: 8px;
+        min-height: 80px;
+        overflow: visible;
+    }
+    .layoutB .left .ewm_mod {
+        display: none;
+    }
+    .layoutB .right {
+        border: 0 none;
+        float: none;
+        margin-left: auto;
+        max-width: 91%;
+        padding: 0;
+        position: relative;
+        width: 91%;
+    }
+    .layoutB .right .article_mod {
+        margin: 0 auto;
+    }
+    .layoutB .right .article_mod .title h1 {
+        font: 24px/34px "Microsoft YaHei";
+    }
+    .layoutB .right .article_mod .text p {
+        font: 18px/28px "Tahoma";
+        text-indent: 36px;
+    }
+    .layoutB .right .article_mod .text p img {
+        margin: 8px auto 10px -36px;
+    }
+    .layoutB .right .article_mod .focusComment .page li {
+        display: none;
+    }
+    .layoutB .right .article_mod .focusComment .page li.pr, .layoutB .right .article_mod .focusComment .page li.ne {
+        display: block;
+        height: 30px;
+        margin: 0 auto 0 10px;
+        width: 30px;
+    }
+    .layoutB .right .article_mod .focusComment .page .pageNum {
+        display: block;
+    }
+    .layoutB .right .article_mod .focusComment .page li.pr a, .layoutB .right .article_mod .focusComment .page li.ne a {
+        background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/bg11.png") no-repeat scroll 0 0;
+        font: 12px/500px "Tahoma";
+        height: 30px;
+        margin: 0 auto;
+        overflow: hidden;
+        padding: 0;
+        width: 30px;
+    }
+    .layoutB .right .article_mod .focusComment .page li.ne a {
+        background-position: -41px 0;
+    }
+    .layoutB .right .article_mod .focusComment .page li.pr a:focus, .layoutB .right .article_mod .focusComment .page li.ne a:focus {
+        outline: medium none;
+    }
+    .layoutC {
+        overflow: hidden;
+    }
+    .layoutC .topBar_mod {
+        display: none;
+    }
+    .layoutC .left, .layoutC .right {
+        float: none;
+    }
+    .layoutC .left {
+        border: 0 none;
+        left: 0;
+        max-width: 100%;
+        position: relative;
+        top: 0;
+        width: 100%;
+    }
+    .layoutC .left .bigPic_mod {
+        height: 350px;
+    }
+    .layoutC .left .author_mod {
+        margin-bottom: 10px;
+        padding: 70px 0 20px;
+        width: 91%;
+    }
+    .layoutC .right {
+        border: 0 none;
+        margin-left: auto;
+        max-width: 91%;
+        padding: 0;
+        width: 91%;
+    }
+    .layoutC .right .articleList_mod {
+        margin-top: 0;
+    }
+    .layoutD_B {
+        width: 91%;
+    }
+    .topicList_mod ul {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .topicList_mod li {
+        margin-right: 0;
+        width: 33%;
+    }
+}
+@media screen and (max-device-width: 768px) and (orientation: portrait) {
+    .topicList_mod li {
+        margin-right: 64px;
+        width: auto;
+    }
+    .layoutA .left .authorBox_mod .topJt {
+        top: 158px;
+    }
+    .layoutA .left .authorBox_mod .bottomJt {
+        top: 203px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .topBar_mod {
+        top: 35px;
+    }
+    .layoutD .topBar_mod {
+        top: 56px;
+    }
+    .layoutD_B .topBar_mod {
+        top: 35px;
+    }
+    .logo_mod {
+        height: 28px;
+        width: 60px;
+    }
+    .logo_mod a {
+        background-size: 60px 28px;
+        height: 28px;
+        width: 60px;
+    }
+    .layoutD .logo_mod, .layoutD .logo_mod a {
+        height: 53px;
+        width: 113px;
+    }
+    .layoutD .logo_mod a {
+        background-size: 113px 53px;
+    }
+    .layoutD_B .logo_mod, .layoutD_B .logo_mod a {
+        height: 28px;
+        width: 60px;
+    }
+    .layoutD_B .logo_mod a {
+        background-size: 60px 28px;
+    }
+    .topBar_mod a, .topBar_mod .name {
+        font: 12px/14px "Tahoma";
+        padding: 0 8px;
+    }
+    .topBar_mod .dytx {
+        right: 1px;
+    }
+    .layoutD .topBar_mod a, .layoutD .topBar_mod .name {
+        font: 14px/18px "Tahoma";
+        padding: 0 16px;
+    }
+    .layoutD_B .topBar_mod a, .layoutD_B .topBar_mod .name {
+        font: 12px/14px "Tahoma";
+        padding: 0 8px;
+    }
+    .topicList_mod ul {
+        margin: 0 auto;
+        width: 190px;
+    }
+    .topicList_mod li {
+        float: none;
+        margin-right: 0;
+        width: auto;
+    }
+    .topic_mod {
+        padding-top: 80px;
+    }
+    .layoutA .right .articleList_mod .focusImg img {
+        width: 100%;
+    }
+    .layoutA .right .articleList_mod .focusImg h2 {
+        bottom: 34px;
+        font: 14px/18px "Microsoft YaHei";
+        padding: 4px;
+    }
+    .layoutA .right .articleList_mod .focusImg h3 {
+        padding: 2px;
+    }
+    .footer_mod p a {
+        color: #bdbdbd;
+        padding: 0 6px;
+    }
+    .layoutA .left .authorBox_mod {
+        padding-left: 0;
+        padding-top: 75px;
+    }
+    .layoutA .left .authorBox_mod .list {
+        width: 90%;
+    }
+    .layoutA .left .authorBox_mod .list .pt img {
+        margin-right: 8px;
+    }
+    .layoutA .left .authorBox_mod .list li {
+        width: 97%;
+    }
+    .layoutA .left .authorBox_mod .topJt {
+        top: 133px;
+    }
+    .layoutA .left .authorBox_mod .bottomJt {
+        top: 178px;
+    }
+    .layoutA .right .articleList_mod .title, .layoutA .right .authorIndex_mod .title {
+    }
+    .layoutA_C .right .articleList_mod {
+        padding-top: 73px;
+    }
+    .layoutA .subscription_mod .list li {
+        width: 50%;
+    }
+    .layoutB .right .article_mod {
+        padding-top: 69px;
+    }
+    .layoutB .right .article_mod .articleIndex_mod .moreArticle, .layoutB .right .article_mod .articleIndex_mod .articleBox {
+        width: 100%;
+    }
+    .layoutB .right .article_mod .articleIndex_mod .articleBox {
+        margin-left: -14px;
+    }
+    .layoutC .left .author_mod {
+        padding: 70px 0 20px;
+    }
+    .layoutC .left .author_mod .face {
+        top: -55px;
+    }
+    .articleList_mod .teamList .item {
+        padding: 15px 0 20px;
+    }
+    .layoutC .right .articleList_mod .teamList .item .pt .txt .pic img {
+        display: none;
+    }
+    .layoutC .right .articleList_mod .teamList .item .pt .haveImg {
+        padding-left: 0;
+    }
+    .af {
+        display: block;
+    }
+}
+@media screen and (max-width: 640px) and (orientation: landscape) {
+    .topicList_mod ul {
+        width: 100%;
+    }
+    .topicList_mod li {
+        float: left;
+        margin-right: 56px;
+    }
+    .topicList_mod li.clearMar {
+        margin-right: 56px;
+    }
+    .topicList_mod li:nth-of-type(2n) {
+        margin-right: 0;
+    }
+}
+.bigBox .layoutA, .bigBox .layoutB, .bigBox .layoutC {
+    width: 1200px;
+}
+.bigBox .layoutA .left, .bigBox .layoutB .left, .bigBox .layoutC .left {
+    width: 480px;
+}
+.bigBox .top_mod {
+    margin-left: 20px;
+}
+.bigBox .layoutD .top_mod {
+    margin-left: auto;
+}
+.delChose {
+    background-color: #ffffff;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px #cac8c8;
+    line-height: 19px;
+    margin: -36px -90px 0 auto;
+    padding: 15px;
+    position: absolute;
+    right: 50%;
+    text-align: center;
+    top: 50%;
+    width: 150px;
+    z-index: 99;
+}
+.delChose .gb_btn {
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    line-height: normal;
+    margin: 5px 3px 0;
+    min-width: 30px;
+    padding: 2px 8px 1px;
+    text-align: center;
+    white-space: nowrap;
+}
+.gb_btn1 {
+    background-color: #43abdc;
+    background-position: 0 -18px;
+    border-color: #288fc9;
+}
+.gb_btn5 {
+    background-color: #e5e5e5;
+    background-position: 0 -162px;
+    border-color: #cfcfcf;
+}
+.gb_btn1 input, .gb_btn5 input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #ffffff;
+    cursor: pointer;
+    margin-top: -1px;
+}
+.gb_btn5 input {
+    color: #333333;
+}
+.D {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.D .bg {
+    background: #000000 none repeat scroll 0 0;
+    height: 100%;
+    left: 0;
+    opacity: 0.35;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.D .CR {
+    position: absolute;
+}
+.D .tbSendMsg {
+    display: block;
+}
+.D table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.D .DWrap::after {
+    border: 3px solid rgba(51, 51, 51, 0.1);
+    border-radius: 4px;
+    content: " ";
+    display: block;
+    height: 100%;
+    left: -4px;
+    padding: 1px;
+    position: absolute;
+    top: -4px;
+    width: 100%;
+    z-index: -1;
+}
+.D .DWrap {
+    background-color: #ffffff;
+    border: 1px solid #8e8e8e;
+    padding: 15px 15px 2px;
+    position: relative;
+}
+.D .DTitle {
+    cursor: move;
+    margin: -15px -15px 0;
+    overflow: hidden;
+    padding: 15px 0 0 15px;
+}
+.tbSendMsg .tl, .tbSendMsg .tm, .tbSendMsg .tr, .tbSendMsg .lm, .tbSendMsg .rm, .tbSendMsg .bl, .tbSendMsg .bm, .tbSendMsg .br {
+    display: none;
+}
+.confirm_larger_box {
+    padding: 25px 15px 30px 25px;
+}
+.confirm_larger_box .ui_ico_b {
+    float: left;
+    margin-right: 10px;
+}
+.confirm_larger_box .ui_sucico, .confirm_larger_box .ui_warnico {
+    margin-left: 0;
+}
+.ui_ico_b .ui_sucico {
+    background-position: 0 0;
+}
+.ui_ico_b .ui_warnico {
+    background-position: -34px 0;
+}
+.ui_ico_s i, .ui_ico_s a, .ui_ico_s span, .ui_ico_b i, .ui_ico_b a, .ui_ico_b span, .ui_ico_ms i, .ui_ico_ms a, .ui_ico_ms span {
+    vertical-align: middle;
+}
+.ui_ico_b i {
+    height: 32px;
+    width: 32px;
+}
+.ui_ico_s i, .ui_ico_b i, .ui_ico_ms i {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/images/light_v2/ui_i_pic_ie6.png") no-repeat scroll 0 0;
+    display: inline-block;
+    overflow: hidden;
+}
+.confirm_larger_box .cnt {
+    overflow: hidden;
+}
+.confirm_larger_box .tit {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 22px;
+    padding-top: 4px;
+}
+.confirm_larger_box .content {
+    color: #999999;
+    line-height: 20px;
+    min-height: 42px;
+}
+.confirm_larger_box .opt {
+    padding-top: 5px;
+}
+.confirm_larger_box .opt .gb_btn {
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    line-height: normal;
+    margin: 5px 3px 0;
+    min-width: 30px;
+    padding: 2px 8px 1px;
+    text-align: center;
+    white-space: nowrap;
+}
+.confirm_larger_box .opt .gb_btn1, .confirm_larger_box .opt .gb_btn3, .confirm_larger_box .opt .gb_btn5, .confirm_larger_box .opt .gb_btn7 {
+    display: inline-block;
+    min-width: 47px;
+    text-align: center;
+}
+.gb_btn1 .t, .gb_btn2 .t {
+    color: #ffffff;
+}
+.gb_btn .t, .gb_foed .t {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    font-size: 12px;
+    line-height: 1.333;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    width: auto;
+}
+.gb_btn .t {
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    vertical-align: middle;
+}
+.icons {
+    background: rgba(0, 0, 0, 0) url("http://mat1.gtimg.com/www/mb/img/p2/dajia.png") no-repeat scroll 0 0;
+    display: inline-block;
+    height: 20px;
+    vertical-align: middle;
+    width: 40px;
+}
+.articleList_mod .teamList .item .pt .txt h2 .shz {
+    color: #af373c;
+    font-size: 16px;
+}
+.icons-dj, .icons-zd {
+    margin-left: 7px;
+}
+.icons-zd {
+    background-position: -42px 0;
+}
+.articleList_mod .teamList .item .pt .txt {
+    position: relative;
+}
+.articleList_mod .teamList .item .pt .txt .contro {
+    position: absolute;
+    right: 20px;
+    top: 13px;
+}
+.icons-edit {
+    background-position: -84px 0;
+    height: 18px;
+    width: 18px;
+}
+.icons-delete {
+    background-position: -106px 0;
+    height: 18px;
+    margin-left: 20px;
+    width: 19px;
+}
+.alert {
+    border: 1px solid #e2e2e2;
+    box-shadow: 2px 2px 5px #f1f1f1;
+    height: 118px;
+    position: absolute;
+    width: 218px;
+}
+.alert .alert-content {
+    overflow: hidden;
+    text-align: center;
+}
+.alert .alert-content .alert-info {
+    color: #666666;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 23px;
+}
+.alert .alert-content .alert-opt {
+    margin-top: 18px;
+}
+.alert .alert-content .alert-opt input {
+    background: #af373c none repeat scroll 0 0;
+    border: 1px solid #e2e2e2;
+    color: #ffffff;
+    cursor: pointer;
+    height: 22px;
+    margin: 0 5px;
+    width: 58px;
+}
+.alert .alert-content .alert-opt .btn-warning {
+    background: #ffffff none repeat scroll 0 0;
+    color: #666666;
+}
+.alert .alert-content .alert-bold {
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+}
+.icons-ok, .icons-warning {
+    background-position: -127px 0;
+    margin-right: 5px;
+    width: 20px;
+}
+.icons-warning {
+    background-position: -149px 0;
+}
+.alert .alert-content .tit {
+    color: #666666;
+    margin-top: 18px;
+}
+.alert .alert-content .noTit {
+    margin-top: 47px;
+}
+.articleList_mod .nav {
+    border-bottom: 1px solid #e2e2e2;
+    padding-bottom: 8px;
+    position: relative;
+}
+.articleList_mod .nav h2 strong {
+    border-bottom: 1px solid #333333;
+    color: #666666;
+    float: left;
+    font: 300 18px/26px "Microsoft YaHei";
+    height: 26px;
+    margin-right: 20px;
+    padding: 0 6px 8px;
+}
+.edit-form .arc-tit {
+    border-bottom: 1px solid #e2e2e2;
+    padding: 32px 0 34px;
+}
+.edit-form .arc-tit .count-text {
+    color: #d6d6d6;
+    float: right;
+    font-size: 16px;
+    height: 34px;
+    line-height: 34px;
+}
+.edit-form .arc-tit .edit-form-h2 .count-text {
+    height: 24px;
+    line-height: 24px;
+}
+.edit-form .edit-form-h1, .edit-form .edit-form-h2 {
+    position: relative;
+}
+.edit-form .edit-form-h2 {
+    margin-top: 7px;
+}
+.edit-form .arc-tit .count-text i {
+    font-style: normal;
+}
+.edit-form .edit-form-h1 input {
+    font-size: 24px;
+    height: 34px;
+    line-height: 34px;
+    outline: medium none;
+    padding: 0 5px;
+    width: 560px;
+}
+.edit-form .edit-form-h1 label {
+    color: #d6d6d6;
+    cursor: text;
+    font-size: 24px;
+    height: 34px;
+    left: 0;
+    line-height: 34px;
+    padding: 0 5px;
+    position: absolute;
+    top: 0;
+    width: 560px;
+}
+.edit-form .edit-form-h2 input {
+    font-size: 16px;
+    height: 24px;
+    line-height: 24px;
+    outline: medium none;
+    padding: 0 5px;
+    width: 560px;
+}
+.edit-form .edit-form-h2 label {
+    color: #d6d6d6;
+    cursor: text;
+    font-size: 16px;
+    height: 24px;
+    left: 0;
+    line-height: 24px;
+    padding: 0 5px;
+    position: absolute;
+    top: 0;
+    width: 560px;
+}
+.edit-form .edit-form-h1 .focus, .edit-form .edit-form-h2 .focus {
+    color: #333333;
+}
+.edit-form .edit-form-article {
+    min-height: 386px;
+    width: 639px;
+}
+.edit-form .edit-form-article span {
+    color: #d6d6d6;
+    display: inline-block;
+    font-size: 14px;
+    height: 386px;
+    line-height: 22px;
+    margin-top: 47px;
+    width: 639px;
+}
+.edit-form .operate {
+    border-top: 1px dashed #cccccc;
+}
+.edit-form .option dt {
+    color: #999999;
+    float: left;
+    padding: 11px 0 7px;
+    width: 61px;
+}
+.edit-form .option dd {
+    color: #999999;
+    float: left;
+    padding: 11px 0 7px;
+    width: 578px;
+}
+.edit-form .option dd input {
+    height: 13px;
+    margin-right: 3px;
+    outline: medium none;
+    vertical-align: middle;
+    width: 13px;
+}
+.edit-form .option dd label {
+    display: inline-block;
+    margin-right: 18px;
+}
+.edit-form .option dd a {
+    background-position: -17px -21px;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+}
+.edit-form .option dd a.selected {
+    background-position: 0 -21px;
+}
+.edit-form .edit-form-submit {
+    font-size: 14px;
+    line-height: 31px;
+    margin-top: 27px;
+}
+.edit-form .edit-form-submit input {
+    background: #838383 none repeat scroll 0 0;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 14px;
+    height: 31px;
+    outline: medium none;
+    width: 100px;
+}
+.edit-form .edit-form-submit input:hover {
+    background: #ababab none repeat scroll 0 0;
+}
+.edit-form .edit-form-submit a {
+    color: #006699;
+    margin-left: 30px;
+}
+.articleList_mod .teamList .item .pt .haveBg {
+    background: rgba(0, 0, 0, 0) url("../../img/p2/dajia_picbg.png") no-repeat scroll 0 0;
+    display: inline;
+    margin-bottom: -11px;
+    margin-left: -5px;
+    overflow: hidden;
+    padding: 3px 6px 11px 5px;
+}
+.itemlist {
+    padding-left: 15px;
+}
+.itemlist li {
+    font-size: 12px;
+    line-height: 28px;
+    list-style: outside none square;
+}
+.itemlist li a {
+    color: #333333;
+    font-size: 14px;
+}
+.itemlist li a span {
+    color: #999999;
+}
